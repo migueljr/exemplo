@@ -11,3 +11,5 @@ echo $app->getVer();
 
 echo (new Clientes)->getCliente();
 echo (new Lost)->getMsg();
+
+//classe
